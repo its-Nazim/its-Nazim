@@ -1,4 +1,9 @@
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEizP-w5Cd0HjCMt5jsd7MV8NK4YO_EToSXeGCxXX9pN5FxQG1cYAfuaELENTtTe_5YA5mkR5yJBXOJFFhAb68I3PLjvDHs1xfyuSfrJqEMtTih9-N0nRFBBobgW2IWzxs6j4Gq01wk2sUuL5y62WzapsAaB_6l5ZswFFd919acjEkjgYP0UHL2U42lBvOQ" width="100%">
+<div align="center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEizP-w5Cd0HjCMt5jsd7MV8NK4YO_EToSXeGCxXX9pN5FxQG1cYAfuaELENTtTe_5YA5mkR5yJBXOJFFhAb68I3PLjvDHs1xfyuSfrJqEMtTih9-N0nRFBBobgW2IWzxs6j4Gq01wk2sUuL5y62WzapsAaB_6l5ZswFFd919acjEkjgYP0UHL2U42lBvOQ" width="300"/>
+</div>
+
+
+
 
 # Nazim Uddin
 ### A Technology and Data Enthusiast, Software Engineer and Web Developer 💻❤️
